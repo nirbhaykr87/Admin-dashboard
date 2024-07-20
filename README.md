@@ -5,7 +5,15 @@
 
 Welcome to the Customizable Admin Dashboard! This project provides a powerful and flexible admin interface that includes dynamic themes, interactive charts, tables, a calendar, and a Kanban board. Perfect for efficient data management and visualization.
 
-![Admin Dashboard Screenshot](path_to_your_image/AdminDashboard.png)
+### Screenshots
+## 1.Home Page 
+<img src="website_preview/Home-page.png" alt="Home-page" > 
+
+## 2.Calendar Page 
+<img src="website_preview/Calendar-page.png" alt="Home-page" > 
+
+## 3.Tables Page 
+<img src="website_preview/Tables-page.png" alt="Home-page" > 
 
 ## Features
 
@@ -38,8 +46,7 @@ For any questions or feedback, please open an issue on the repository or contact
 ![author](https://img.shields.io/badge/author-Nirbhay--Kumar-blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nirbhaykrmuj/)
 
-![author](https://img.shields.io/badge/author-Yash--Mall-blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yashmall/)
+
 
 ---
 
