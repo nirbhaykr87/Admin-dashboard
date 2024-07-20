@@ -1,0 +1,39 @@
+
+/* Calendar.css */
+
+.calendar-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Customize the appearance of the calendar */
+  .fc-daygrid-day {
+    border: 1px solid #dcdcdc;
+  }
+  
+  .fc-daygrid-day-top {
+    background-color: #f8f9fa;
+  }
+  
+  .fc-daygrid-day-number {
+    color: #007bff;
+  }
+  
+  .fc-event {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .fc-event:hover {
+    background-color: #218838;
+  }
+  
+  /* Optional: Styling for the header */
+  .fc-header-toolbar {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
