@@ -7,13 +7,13 @@ Welcome to the Customizable Admin Dashboard! This project provides a powerful an
 
 ### Screenshots
 ## 1.Home Page 
-<img src="website_preview/Home-page.png" alt="Home-page" > 
+<img src="website_preview/Home-page.png" alt="Home-page"  width="80%"> 
 
 ## 2.Calendar Page 
-<img src="website_preview/Calendar-page.png" alt="Home-page" > 
+<img src="website_preview/Calendar-page.png" alt="Home-page"   width="80%"> 
 
 ## 3.Tables Page 
-<img src="website_preview/Tables-page.png" alt="Home-page" > 
+<img src="website_preview/Tables-page.png" alt="Home-page"  width="80%" > 
 
 ## Features
 
